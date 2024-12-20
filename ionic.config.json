@@ -1,0 +1,7 @@
+{
+  "name": "TSG-POS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
