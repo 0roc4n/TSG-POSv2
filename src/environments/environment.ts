@@ -4,6 +4,16 @@
 
 export const environment = {
   production: false
+  // // Your web app's Firebase configuration
+  // const firebaseConfig = {
+  //   apiKey: "AIzaSyDnrOV-mT3pt2bYDm6Bp_H-zf8yWFAwOtk",
+  //   authDomain: "tsg-pos.firebaseapp.com",
+  //   projectId: "tsg-pos",
+  //   storageBucket: "tsg-pos.firebasestorage.app",
+  //   messagingSenderId: "315315097243",
+  //   appId: "1:315315097243:web:955e113c83b3ac74f7803e"
+  // };
+
 };
 
 /*
